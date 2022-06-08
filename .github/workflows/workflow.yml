@@ -14,7 +14,7 @@ jobs:
         node-version: [15.x]
     
     steps:
-      - uses: actions/checkout@v0
+      - uses: actions/checkout
       - name: install dependencies
         run: npm install
         working-directory: ./frontend
