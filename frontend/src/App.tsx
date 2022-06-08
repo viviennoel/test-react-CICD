@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test REACT AWS
+          Test my application is updated! YEAAAAAHHHH
         </p>
         <a
           className="App-link"
